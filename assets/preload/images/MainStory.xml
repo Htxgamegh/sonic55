@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MainStory.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MainStory0000" x="0" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0001" x="0" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0002" x="371" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0003" x="371" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0004" x="0" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0005" x="0" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0006" x="371" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0007" x="371" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0008" x="0" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0009" x="0" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0010" x="371" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0011" x="371" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0012" x="742" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0013" x="742" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0014" x="371" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0015" x="371" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0016" x="0" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0017" x="0" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0018" x="371" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0019" x="371" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0020" x="0" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0021" x="0" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0022" x="0" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0023" x="0" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0024" x="371" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0025" x="371" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0026" x="0" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0027" x="0" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0028" x="371" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0029" x="371" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0030" x="0" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0031" x="0" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0032" x="371" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0033" x="371" y="0" width="351" height="350" frameX="-133" frameY="-11" frameWidth="625" frameHeight="361"/>
+	<SubTexture name="MainStory0034" x="1113" y="0" width="625" height="361"/>
+	<SubTexture name="MainStory0035" x="0" y="381" width="625" height="361"/>
+	<SubTexture name="MainStory0036" x="645" y="381" width="625" height="361"/>
+	<SubTexture name="MainStory0037" x="645" y="381" width="625" height="361"/>
+	<SubTexture name="MainStory0038" x="1290" y="381" width="625" height="361"/>
+	<SubTexture name="MainStory0039" x="1290" y="381" width="625" height="361"/>
+	<SubTexture name="MainStory0040" x="0" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0041" x="0" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0042" x="645" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0043" x="645" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0044" x="1290" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0045" x="1290" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0046" x="645" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0047" x="645" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0048" x="1290" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0049" x="1290" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0050" x="645" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0051" x="645" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0052" x="1290" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0053" x="1290" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0054" x="645" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0055" x="645" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0056" x="1290" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0057" x="1290" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0058" x="645" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0059" x="645" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0060" x="1290" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0061" x="1290" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0062" x="645" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0063" x="645" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0064" x="1290" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0065" x="1290" y="762" width="625" height="361"/>
+	<SubTexture name="MainStory0066" x="0" y="1143" width="625" height="361"/>
+	<SubTexture name="MainStory0067" x="0" y="1143" width="625" height="361"/>
+	<SubTexture name="MainStory0068" x="645" y="1143" width="625" height="361"/>
+	<SubTexture name="MainStory0069" x="645" y="1143" width="625" height="361"/>
+	<SubTexture name="MainStory0070" x="1290" y="1143" width="625" height="361"/>
+	<SubTexture name="MainStory0071" x="1290" y="1143" width="625" height="361"/>
+	<SubTexture name="MainStory0072" x="0" y="1524" width="625" height="361"/>
+	<SubTexture name="MainStory0073" x="645" y="1524" width="625" height="361"/>
+</TextureAtlas>
