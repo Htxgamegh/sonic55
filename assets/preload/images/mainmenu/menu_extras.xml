@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_extras.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="extrasBasic0000" x="0" y="0" width="490" height="87"/>
+	<SubTexture name="extrasWhite0000" x="0" y="0" width="490" height="87" frameX="0" frameY="-13" frameWidth="490" frameHeight="87"/>
+	<SubTexture name="extrasWhite0001" x="510" y="0" width="497" height="88" frameX="0" frameY="-9" frameWidth="505" frameHeight="100"/>
+	<SubTexture name="extrasWhite0002" x="0" y="108" width="505" height="93" frameX="0" frameY="-4" frameWidth="505" frameHeight="100"/>
+	<SubTexture name="extrasWhite0003" x="0" y="221" width="504" height="97" frameX="0" frameY="0" frameWidth="505" frameHeight="100"/>
+	<SubTexture name="extrasWhite0004" x="524" y="221" width="499" height="92" frameX="0" frameY="-5" frameWidth="505" frameHeight="100"/>
+</TextureAtlas>
