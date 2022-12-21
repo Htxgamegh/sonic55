@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="foregroundbop.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="foreboppers0000" x="0" y="0" width="1336" height="698" frameX="-13" frameY="-4" frameWidth="1362" frameHeight="702"/>
+	<SubTexture name="foreboppers0001" x="0" y="0" width="1336" height="698" frameX="-13" frameY="-4" frameWidth="1362" frameHeight="702"/>
+	<SubTexture name="foreboppers0002" x="1356" y="0" width="1349" height="699" frameX="-5" frameY="-3" frameWidth="1362" frameHeight="702"/>
+	<SubTexture name="foreboppers0003" x="1356" y="0" width="1349" height="699" frameX="-5" frameY="-3" frameWidth="1362" frameHeight="702"/>
+	<SubTexture name="foreboppers0004" x="0" y="719" width="1356" height="699" frameX="-3" frameY="-3" frameWidth="1362" frameHeight="702"/>
+	<SubTexture name="foreboppers0005" x="0" y="719" width="1356" height="699" frameX="-3" frameY="-3" frameWidth="1362" frameHeight="702"/>
+	<SubTexture name="foreboppers0006" x="1376" y="719" width="1362" height="702"/>
+	<SubTexture name="foreboppers0007" x="1376" y="719" width="1362" height="702"/>
+	<SubTexture name="foreboppers0008" x="1376" y="719" width="1362" height="702"/>
+	<SubTexture name="foreboppers0009" x="1376" y="719" width="1362" height="702"/>
+	<SubTexture name="foreboppers0010" x="1376" y="719" width="1362" height="702"/>
+	<SubTexture name="foreboppers0011" x="1376" y="719" width="1362" height="702"/>
+</TextureAtlas>
